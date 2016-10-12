@@ -6,9 +6,9 @@
   <a name="top" href="#"><img src="anim.gif"></a>
 </p>
 
-## Usage
+## Easy Run Instructions ( For non-developers )
 
-Follow these instructions if you simply wish to run WebGoat
+Follow these instructions if you simply wish to run 3D Platform
 
 **Prerequisites:** 
 
@@ -21,3 +21,22 @@ Java VM >= 1.6 installed ( JDK 1.7 recommended)
 2. Run it using java:
 
     > java -jar 3DPlatform.jar
+
+##  Standard Run Instructions (For Developers)
+
+Follow These instructions if you wish to run 3D Platform and modify the source code
+as well.
+
+**Prerequisites:**
+
+* Java >= 1.6 ( JDK 1.7 recommended )
+* Eclipse Java IDE
+
+**Note:** 3D Platform source code can be downloaded at: (https://github.com/SKantar/3D-Platform-/tree/master/Racunarska%20grafika).
+
+1. Download project to any location of your choice
+
+2. After opening the project in Netbeans or Eclipse, you can easily run the project
+
+## Conclusion
+
