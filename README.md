@@ -40,3 +40,4 @@ as well.
 
 ## Conclusion
 
+Java is too low for this kind of application (very low FPS)
