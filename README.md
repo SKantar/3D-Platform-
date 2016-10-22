@@ -35,7 +35,6 @@ as well.
 **Note:** 3D Platform source code can be downloaded at: (https://github.com/SKantar/3D-Platform-/tree/master/Racunarska%20grafika).
 
 1. Download project to any location of your choice
-
 2. After opening the project in Netbeans or Eclipse, you can easily run the project
 
 ## Conclusion
